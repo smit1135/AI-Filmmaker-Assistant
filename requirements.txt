@@ -1,7 +1,5 @@
-spacy<3.6.0
-spacy>=3.5.0
-pandas>=2.0
-streamlit>=1.24.1
-python-dateutil>=2.8.2
+spacy
+pandas
+streamlit
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
 
